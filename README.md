@@ -1,0 +1,1 @@
+# gallery-webpack-5.5
